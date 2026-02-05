@@ -10,5 +10,6 @@ Welcome to my collection of data science projects.
 * ### [Medical Examination Analysis](./MedData)
   Exploratory Data Analysis (EDA) and health marker normalization.
 * ### [Machine Learning Specialization Course](./MLSpecialization)
+  Course guided labs and assignments
 * ### [Self-Study Course Certifications](./Certs)
   
