@@ -1,9 +1,9 @@
 # Book Recommendation Engine (K-Nearest Neighbors)
 
-### 📚 Project Overview
+### Project Overview
 This project implements a **Book Recommendation System** using the **K-Nearest Neighbors (KNN)** algorithm. Analyzing the Book-Crossings dataset—which includes 1.1 million ratings for over 270,000 books—the model identifies and suggests books that are "closest" in similarity to a given title based on user rating patterns.
 
-### 🤖 Machine Learning Highlights
+### Machine Learning Highlights
 *   **Algorithm:** Utilized `sklearn.neighbors.NearestNeighbors` to calculate the cosine similarity between book vectors.
 *   **Sparse Data Management:** Handled a large, sparse matrix of user-item interactions to find meaningful clusters of similar books.
 *   **Statistical Filtering:** Implemented rigorous data cleaning to ensure recommendation quality, filtering out infrequent raters and unpopular books.
@@ -35,4 +35,5 @@ This project implements a **Book Recommendation System** using the **K-Nearest N
 ### Stack
 *   **Library:** Scikit-Learn
 *   **Data Handling:** Pandas, NumPy, Scipy (Sparse Matrices)
+
 *   **Algorithm:** K-Nearest Neighbors (Unsupervised)
