@@ -1,5 +1,3 @@
-# Projects Portfolio
-
 Welcome to this repository, showcasing some of my self-learning projects across various basic scineitifc computing, data science, and machine learning. 
 
 ### Deep Learning & Natural Language Processing (NLP)
