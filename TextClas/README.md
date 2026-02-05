@@ -27,9 +27,10 @@ This project involves building a **Natural Language Processing (NLP)** model to 
 
 ---
 
-### View the Analysis: **[View the SMS Spam Classifier Notebook](./sms_spam_classifier.ipynb)**
+### View the Analysis: **[View the SMS Spam Classifier Notebook](./fcc_sms_text_classification.ipynb)**
 
 ### Tech Stack
 *   **Frameworks:** TensorFlow / Keras (or Scikit-Learn)
 *   **NLP Techniques:** Tokenization, Padding, Text Vectorization
+
 *   **Libraries:** Pandas, NumPy, Matplotlib
