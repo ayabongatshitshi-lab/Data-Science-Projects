@@ -1,6 +1,5 @@
 # Data-Science-Projects
 
-# Data Science Portfolio
 Welcome to my collection of data science projects.
 
 ## Projects
