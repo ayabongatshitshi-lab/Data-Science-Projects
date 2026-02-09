@@ -10,7 +10,7 @@ This project involves building a **Natural Language Processing (NLP)** model to 
 
 ---
 
-### Technical Methodology
+### Workflow
 
 #### **1. Data Preparation**
 *   **Dataset:** Utilized the SMS Spam Collection dataset, already partitioned into training and testing sets.
@@ -29,8 +29,9 @@ This project involves building a **Natural Language Processing (NLP)** model to 
 
 ### View the Analysis: **[View the SMS Spam Classifier Notebook](./fcc_sms_text_classification.ipynb)**
 
-### Tech Stack
+### Stack
 *   **Frameworks:** TensorFlow / Keras (or Scikit-Learn)
 *   **NLP Techniques:** Tokenization, Padding, Text Vectorization
 
 *   **Libraries:** Pandas, NumPy, Matplotlib
+
