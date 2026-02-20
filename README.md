@@ -12,7 +12,7 @@ Welcome to this repository, showcasing some of my self-learning projects spannin
    - **Technologies Used:** Convolutional Neural Network (TensorFlow, Keras)
    - **Result:** The model correctly classified test images with ≥63% accuracy.
 
-3. [SMS Spam Classifier](./SMS%20Spam%20Classifier)
+3. [SMS Text Classifier](./SMS%20Spam%20Classifier)
    - **Description:** The project builds a neural network with text vectorization to classify SMS messages as “ham” or “spam”.
    - **Technologies Used:** Text vectorization and deep neural network (TensorFlow, Keras)
    - **Result:** The model accurately predicts message labels on test data with reasonable reliability.
