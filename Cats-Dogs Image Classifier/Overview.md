@@ -1,0 +1,4 @@
+**Dog vs Cat Image Classification**
+
+This project builds a Convolutional Neural Network (CNN) using TensorFlow and Keras to classify images of dogs and cats. The dataset (hosted in freecodecamp's website) contains labelled training images of cats and dogs, and unlabelled test images for prediction. The CNN uses stacks of Conv2D and MaxPooling2D layers followed by fully connected layers with ReLU activation. 
+The model is trained to achieve at least **63% classification accuracy**, with visualization of training and validation performance, and is used to predict the class of new images with probabilistic outputs.
