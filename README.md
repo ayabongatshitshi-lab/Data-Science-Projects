@@ -20,8 +20,8 @@ Welcome to this repository, showcasing some of my self-learning projects spannin
 
 ---
 
-## Certifications
-### [Machine Learning Specialization Course](./MLSpecialization)
+### Certifications
+#### [Machine Learning Specialization Course](./MLSpecialization)
   A collection of guided labs and technical assignments covering supervised and unsupervised learning.
-### [Self-Study Course Certifications](./Certs)
+#### [Self-Study Course Certifications](./Certs)
   Documentation and certificates for completed data science and programming courses.
