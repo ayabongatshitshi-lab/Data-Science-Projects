@@ -13,7 +13,7 @@ Welcome to this repository, showcasing some of my self-learning projects spannin
    - **Result:** The model correctly classified test images with 78% accuracy
 
 3. [SMS Text Classifier](./SMS%20Spam%20Classifier)
-   - **Description:** The project builds a neural network with text vectorization to classify SMS messages as “ham” or “spam”
+   - **Description:** The project builds a neural network with text vectorization to classify SMS texts as “ham” or “spam”
    - **Technologies Used:** TextVectorization and Deep Neural Network (TensorFlow, Keras)
    - **Result:** The model accurately predicts message labels on test data with reasonable reliability
 
