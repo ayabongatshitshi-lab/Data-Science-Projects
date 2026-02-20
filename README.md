@@ -10,7 +10,7 @@ Welcome to this repository, showcasing some of my self-learning projects spannin
 2. [Cats and Dogs Image Classifier](./Cats-Dogs%20Image%20Classifier)
    - **Description:** The project builds a CNN to classify images of dogs and cats, achieving at least 63% accuracy
    - **Technologies Used:** Convolutional Neural Network (TensorFlow, Keras)
-   - **Result:** The model correctly classified test images with ≥63% accuracy
+   - **Result:** The model correctly classified test images with 78% accuracy
 
 3. [SMS Text Classifier](./SMS%20Spam%20Classifier)
    - **Description:** The project builds a neural network with text vectorization to classify SMS messages as “ham” or “spam”
