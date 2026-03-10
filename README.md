@@ -10,7 +10,7 @@ Welcome to this repository, showcasing some of my self-learning projects spannin
 2. [Book Recommendation Engine](./Book%20Recommendation%20Engine)
    - **Description:** The project recommends 5 books similar to a given book using K-Nearest Neighbors
    - **Technologies Used:** K-Nearest Neighbors
-   - **Result:** The function returned accurate book recommendations with similarity scores
+   - **Result:** The function returned the top-5 book recommendations with similarity scores
 
 3. [Cats and Dogs Image Classifier](./Cats-Dogs%20Image%20Classifier)
    - **Description:** The project builds a CNN to classify images of dogs and cats, achieving at least 63% accuracy
