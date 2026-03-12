@@ -6,7 +6,7 @@ Welcome to this repository, showcasing some of my self-learning projects spannin
    - **Description:** The project compares the performance of a Decision Tree and KNN model for predicting breast cancer diagnoses.
    - **Technologies Used:** Decision Tree, K-Nearest Neighbors
    - **Result:** KNN outperformed the Decision Tree, achieving 95% accuracy and 94% recall for Malignant cases on unseen data.
-2. [Bike Sharing Predicitve Model](./Bike%20Sharing%20Predictive%20Model)
+2. [Bike Sharing Predictive Model](./Bike%20Sharing%20Predictive%20Model)
    - **Description:** The project compares the performance of Decision Tree and KNN Regression models for predicting hourly rented bike demand.
    - **Technologies Used:** Decision Tree Regressor, K-Nearest Neighbors Regressor
    - **Result:** Both models performed similarly, with the Decision Tree marginally outperforming KNN on test RMSE (339 vs 344), while KNN edged the Decision Tree on training RMSE (351 vs 355).
