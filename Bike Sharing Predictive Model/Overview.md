@@ -1,0 +1,2 @@
+This project develops predictive models to estimate the number of bikes rented per hour using the Seoul Bike Sharing Data. 
+Different models are developed and evaluated based on performance metrics to determine the most effective model.
